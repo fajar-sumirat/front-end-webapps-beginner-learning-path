@@ -1,3 +1,4 @@
 Start with https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 Try out all the incremental topics within it, and any code excercises shall be made on the this repo
 Start also any practical GitHub tutorial such as Youtube video tutorial upon GitHub
+The URL above needs notepadd++ installation so that you can practice the HTML's tag directly on it
